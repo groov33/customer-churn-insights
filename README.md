@@ -1,10 +1,13 @@
 # Customer Churn Prediction & Consumer Insights Platform
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?logo=vercel)](https://ayush-pandey-ml-portfolio.vercel.app)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.40%2B-red.svg)](https://streamlit.io/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.6%2B-orange.svg)](https://scikit-learn.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.0%2B-green.svg)](https://xgboost.readthedocs.io/)
 [![SHAP](https://img.shields.io/badge/SHAP-Explainability-purple.svg)](https://shap.readthedocs.io/)
+
+🌐 **Live Interactive Showcase**: [https://ayush-pandey-ml-portfolio.vercel.app](https://ayush-pandey-ml-portfolio.vercel.app)
 
 An end-to-end customer churn prediction and consumer analytics system combining classical machine learning, class-imbalance treatment, SHAP-based model interpretability, unsupervised customer segmentation, and review sentiment analytics.
 
